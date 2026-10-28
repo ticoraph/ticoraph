@@ -14,4 +14,4 @@ TneXa conçoit des systèmes d’intelligence artificielle connectés aux donné
 
 ## Contact
 
-Ces dépôts ne sont pas ouverts aux contributions. Pour échanger, utilisez les [Discussions](https://github.com/ticoraph/TneXa/discussions) ou rendez-vous sur [tnexa.fr](https://tnexa.fr).
+Ces dépôts ne sont pas ouverts aux contributions. Pour échanger, utilisez les [Discussions](https://github.com/ticoraph/ticoraph/discussions) ou rendez-vous sur [tnexa.fr](https://tnexa.fr).
