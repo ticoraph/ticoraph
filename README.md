@@ -6,6 +6,7 @@ TneXa conçoit des systèmes d’intelligence artificielle connectés aux donné
 
 ## Projets publics
 
+- [TneXa](https://github.com/ticoraph/TneXa) : le site vitrine de TneXa (Astro, MDX, Cloudflare).
 - [BeeDoo](https://github.com/ticoraph/BeeDoo) : un robot Reachy Mini de compagnie pour les personnes âgées.
 - [Replic](https://github.com/ticoraph/Replic) : un chatbot francophone qui incarne les personnages de Pulp Fiction (QLoRA, RAG pgvector, vLLM).
 - [Joule](https://github.com/ticoraph/Joule) : suivi et prévision de la consommation d’électricité (FastAPI, React, MLflow).
@@ -14,4 +15,4 @@ TneXa conçoit des systèmes d’intelligence artificielle connectés aux donné
 
 ## Contact
 
-Ces dépôts ne sont pas ouverts aux contributions. Pour échanger, utilisez les [Discussions](https://github.com/ticoraph/ticoraph/discussions) ou rendez-vous sur [tnexa.fr](https://tnexa.fr).
+Ces dépôts ne sont pas ouverts aux contributions. Pour échanger, utilisez les [Discussions](https://github.com/ticoraph/ticoraph/discussions).
